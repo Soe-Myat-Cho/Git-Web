@@ -16,6 +16,8 @@
             <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600">Click Me</button>
         </div>
     </main>
-    
+    <footer class="bg-gray-800 text-white text-center p-4 mt-auto">
+        &copy; 2025 Simple Webpage. All rights reserved.
+    </footer>
 </body>
 </html>
